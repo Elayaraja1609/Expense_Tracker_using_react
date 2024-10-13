@@ -5,23 +5,23 @@
 * React Hook Form supports the standard HTML attributes for data validation such as required, minLength, etc.
 * We can validate our forms using schema-based validation libraries such as joi, yup, zod, etc. With these libraries, we can define all our validation rules in a single place called a schema.
 
-**HANDLING FORM SUBMISSION**
+## **HANDLING FORM SUBMISSION**
  ![image](https://github.com/user-attachments/assets/5a704f66-3c43-4950-baf2-c24df38d0ef3)
 
-**ACCESSING INPUT FIELDS USING THE REF HOOK**
+## **ACCESSING INPUT FIELDS USING THE REF HOOK**
  ![image](https://github.com/user-attachments/assets/617a707f-fb84-4046-8410-3ffe363ec8c3)
 
-**MANAGING FORM STATE USING THE STATE HOOK**
+## **MANAGING FORM STATE USING THE STATE HOOK**
 ![image](https://github.com/user-attachments/assets/1c02c69e-1880-4f4c-9eda-0937a7a34d23)
 
-**HOOKMANAGING FORM STATE USING REACT HOOK FORM**
+## **HOOKMANAGING FORM STATE USING REACT HOOK FORM**
 ![image](https://github.com/user-attachments/assets/fc4830f3-abd9-4fc4-9af4-07a755344390)
 
-**VALIDATION USING HTML5 ATTRIBUTES**
+## **VALIDATION USING HTML5 ATTRIBUTES**
 ![image](https://github.com/user-attachments/assets/4dc9dacd-94f7-435b-ba9d-0027e6b292b0)
 
-**DISABLING THE SUBMIT BUTTON**
+## **DISABLING THE SUBMIT BUTTON**
 ![image](https://github.com/user-attachments/assets/a3f50634-13d9-4f4e-9466-a95e089dfaf4)
 
-**SCHEMA-BASED VALIDATION WITH ZOD**
+## **SCHEMA-BASED VALIDATION WITH ZOD**
 ![image](https://github.com/user-attachments/assets/fa1706e7-e116-45e7-a0fb-2829526b23d5)
